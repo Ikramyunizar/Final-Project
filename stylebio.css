@@ -1,0 +1,26 @@
+.bg {
+    background-color: teal; 
+}
+
+.rangka {
+    margin-top: 15%;
+    margin-left:1%;
+    margin-right:5%; 
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 20px;
+    border-color: white;
+}
+
+.heading {
+    line-height: 100px;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.teks {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}

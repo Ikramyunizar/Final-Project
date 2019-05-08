@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+    .bg {
+        background-color: red;
+    }
+}
+
+.bg {
+    background-color: grey; 
+}
+
+
+.margin {
+    margin-top:5%; 
+    margin-left: 0%;
+    margin-right: 20%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:azure; 
+}
+
+.field {
+    width:300px;
+    text-align: center;
+    background-color:transparent;
+    
+
+}
